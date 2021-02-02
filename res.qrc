@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/asteroid!!.png</file>
+        <file>image/backgrounds.jpg</file>
+        <file>image/buts.png</file>
+        <file>image/backbut.png</file>
+        <file>image/spaceships.png</file>
+        <file>image/bul.png</file>
+        <file>sounds/shoot.wav</file>
+        <file>image/reload.png</file>
+        <file>image/smallasteroids.png</file>
+        <file>sounds/crack.wav</file>
+        <file>sounds/list.wav</file>
+        <file>image/icon.ico</file>
+    </qresource>
+</RCC>
